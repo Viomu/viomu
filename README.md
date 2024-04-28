@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on our C++ Uni project
+🌱 I’m currently learning how to work on projects in a group using C++, Java and Python
+✨ Looking forward to learning with everyone here!
